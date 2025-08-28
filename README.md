@@ -1,21 +1,23 @@
 # 👋 Olá, eu sou o Arthur!
 
-🎯 **Sobre mim**  
-- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** – conclusão prevista em 2027  
-- Em transição de carreira para a área de **Tecnologia da Informação**  
-- Focado em **desenvolvimento back-end com Java e Spring Boot**  
-- Dedicado a estudos diários para evoluir como desenvolvedor e conquistar meu espaço no mercado de TI  
+🎯 **Sobre mim**
+- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** (previsão de conclusão: 2027)
+- Focado em **desenvolvimento back-end com Java e Spring Boot**
+- Dedicado a estudos diários e projetos práticos em TI
 
-💻 **Atualmente aprendendo**  
-- Java (POO, coleções, boas práticas)  
-- Spring Boot (APIs REST, camadas, banco de dados)  
-- Lógica de programação e SQL  
+💻 **Tecnologias que domino**
+- Linguagens: Java, SQL
+- Frameworks: Spring Boot
+- Ferramentas: Git, GitHub, Maven
+- Banco de dados: MySQL, H2
+- Outros: VSCode, IntelliJ, Postman
 
-🚀 **Objetivos**  
-- Crescer como desenvolvedor back-end  
-- Contribuir em projetos desafiadores na área de tecnologia  
-- Construir carreira sólida em TI  
+🚀 **Projetos mais importantes**
+- [Projeto To-Do Back-end](https://github.com/ArthurX013/projeto-beckend) – API simples de tarefas em Java/Spring Boot
+- [Seu próximo projeto] – breve descrição
 
-📫 **Conecte-se comigo**  
-- [LinkedIn](https://www.linkedin.com/in/arthur-silveira-2ba5442a2/)  
-- [E-mail](arthur.sgregorio@gmail.com)  
+🔗 **Conecte-se comigo**
+- LinkedIn: [Arthur](https://www.linkedin.com/in/arthur-silveira-2ba5442a2/)
+- E-mail: SEUEMAIL@exemplo.com
+
+---

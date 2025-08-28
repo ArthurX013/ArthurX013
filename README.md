@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Arthur!
 
-<!--
-**ArthurX013/ArthurX013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Sobre mim**  
+- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** – conclusão prevista em 2027  
+- Em transição de carreira para a área de **Tecnologia da Informação**  
+- Focado em **desenvolvimento back-end com Java e Spring Boot**  
+- Dedicado a estudos diários para evoluir como desenvolvedor e conquistar meu espaço no mercado de TI  
 
-Here are some ideas to get you started:
+💻 **Atualmente aprendendo**  
+- Java (POO, coleções, boas práticas)  
+- Spring Boot (APIs REST, camadas, banco de dados)  
+- Lógica de programação e SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Objetivos**  
+- Crescer como desenvolvedor back-end  
+- Contribuir em projetos desafiadores na área de tecnologia  
+- Construir carreira sólida em TI  
+
+📫 **Conecte-se comigo**  
+- [LinkedIn](https://www.linkedin.com/in/arthur-silveira-2ba5442a2/)  
+- [E-mail](arthur.sgregorio@gmail.com)  

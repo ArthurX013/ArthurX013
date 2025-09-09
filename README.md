@@ -17,6 +17,6 @@
 
 🔗 **Conecte-se comigo**
 - LinkedIn: [Arthur](https://www.linkedin.com/in/arthur-silveira-2ba5442a2/)
-- E-mail: SEUEMAIL@exemplo.com
+- E-mail: arthur.sgregorio@gmail.com
 
 ---

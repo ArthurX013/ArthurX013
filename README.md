@@ -12,8 +12,6 @@
 - Banco de dados: MySQL, H2
 - Outros: VSCode, IntelliJ, Postman
 
-🚀 **Projetos mais importantes**
-- [Projeto To-Do Back-end](https://github.com/ArthurX013/projeto-beckend) – API simples de tarefas em Java/Spring Boot
 
 🔗 **Conecte-se comigo**
 - LinkedIn: [Arthur](https://www.linkedin.com/in/arthur-silveira-2ba5442a2/)
